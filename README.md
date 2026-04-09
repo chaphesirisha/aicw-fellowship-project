@@ -12,3 +12,5 @@ https://github.com/chaphesirisha/Optimizing-Discount-and-Marketing-Strategies-to
 (Click the link below to access the report:)
 https://github.com/chaphesirisha/Optimizing-Discount-and-Marketing-Strategies-to-Maximize-Sales-Performance-and-Profitability/blob/main/AICW%20PROJECT%20REPORT-Chaphe%20Sirisha%20(Optimizing%20Discount%20and%20Marketing%20Strategies%20to%20Maximize%20Sales%20Performance%20and%20Profitability).docx
 [Note: If the file does not preview, click "View raw" to download and open it]
+# Video Presentation :(click Here)
+https://youtu.be/jJxOhHrAaRQ
