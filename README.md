@@ -1,4 +1,5 @@
 AICW Fellowship Project: Optimizing Discount and Marketing Strategies to Maximize Sales Performance and Profitability
+
 📌 Project Overview:
 This project focuses on analyzing how discount strategies and marketing efforts impact sales performance and profitability. Using Power BI, interactive dashboards were created to provide meaningful business insights.
 ## Project Links
